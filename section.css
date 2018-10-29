@@ -3,7 +3,7 @@
     padding-top: 100px;
 }
 
-#wrapper1 {
+#section-ceo-wrapper {
     margin: 0 auto;
     max-width: 65%;
 }
@@ -25,7 +25,7 @@
     font-family: Pathway Gothic One;
     text-align: left;
     letter-spacing: 1.1px;
-    padding-top: 30px;
+    padding-top: 14px;
     
 }
 
@@ -76,5 +76,5 @@
     margin: 4px 2px;
     cursor: pointer;
     text-transform: uppercase;
-    font-family: EB Garamond;
+    font-family: Pathway Gothic One;
 }

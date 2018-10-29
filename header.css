@@ -78,7 +78,7 @@
     font-size: 0.8rem;
 }
 
-#wrapper {
+#header-text-wrapper {
     text-align: center;
     margin-top: 10%;
 }
@@ -91,23 +91,23 @@
 }
 
 #first {
-    font-family: Roboto;
-    font-size: 10px;
+    font-family: Pathway Gothic One;
+    font-size: 15px;
     letter-spacing: 5px;
     opacity: 0.8;
 }
 
 #second {
-    font-family: Open Sans;
-    font-size: 60px;
+    font-family: Pathway Gothic One;
+    font-size: 80px;
     letter-spacing: 15px;
     text-transform: uppercase;
     opacity: 0.8;
 }
 
 #third {
-    font-family: EB Garmond;
-    font-size: 10px;
+    font-family: Pathway Gothic One;
+    font-size: 15px;
     letter-spacing: 2.5px;
     opacity: 0.6
 }
